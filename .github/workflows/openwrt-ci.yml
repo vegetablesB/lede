@@ -172,7 +172,6 @@ jobs:
           CONFIG_PACKAGE_luci-theme-atmaterial=y
           CONFIG_PACKAGE_luci-theme-rosy=y
           CONFIG_PACKAGE_luci-theme-bootstrap=y
-          CONFIG_PACKAGE_luci-theme-rosy=y
           EOF
           # 常用软件包:
           cat >> .config <<EOF
